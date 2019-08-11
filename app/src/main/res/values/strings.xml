@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Diccionario</string>
+    <string name="lbl_word">Palabra</string>
+    <string name="lbl_search">Buscar</string>
+</resources>
